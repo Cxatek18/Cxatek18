@@ -15,6 +15,6 @@ I know the basic php language and sometimes I can write something in it.
 I am constantly studying and improving. I am always ready for interesting projects and proposals.
 ***
 ## Links to my social networks
-+Telegram: (http://example.com/)
-+VK: (https://vk.com/gregori18)
-+Gmail:
++ [Telegram]: (http://example.com/)
++ [VK]: (https://vk.com/gregori18
++ Gmail:
