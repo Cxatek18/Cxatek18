@@ -17,4 +17,4 @@ I am constantly studying and improving. I am always ready for interesting projec
 ## Links to my social networks
 + Telegram: @Cxatek18
 + VK: vk.com/gregori18
-+ Gmail: gregdev77@gmail.com
++ Email: gregdev77@gmail.com
