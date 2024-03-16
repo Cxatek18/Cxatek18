@@ -2,7 +2,7 @@
 ![YHjl](https://user-images.githubusercontent.com/76473073/167352645-91c14b58-1ef4-434d-ac56-28ad2c3c873f.gif)
 ## About me
 
-My name is Gregory, I am 23 years old, and I am an Android developer with great potential. Although I have no experience in this field, I strive to become an outstanding specialist due to my dedication, responsibility and desire to constantly develop.
+My name is Gregory, and I am an Android developer with great potential. Although I do not have much commercial experience in this field, I strive to become an outstanding specialist due to my dedication, responsibility and desire to constantly develop.
 
 I am passionate about the world of mobile technology and am constantly exploring new approaches to programming. My main technological skills include Java and Kotlin, and I am ready to deepen my knowledge in them in order to become an experienced specialist in the field of Android development.
 
@@ -14,7 +14,7 @@ I am looking forward to the opportunity to start my professional career, develop
 
 ---------------------------------------------------------------------------
 
-Меня зовут Григорий, и я - Android разработчик с большим потенциалом. Хоть у меня нет опыта в данной области, я стремлюсь стать выдающимся специалистом благодаря своей целеустремленности, ответственности и желанию постоянно развиваться.
+Меня зовут Григорий, и я - Android разработчик с большим потенциалом. Хоть у меня нет большого коммерческого опыта в данной области, я стремлюсь стать выдающимся специалистом благодаря своей целеустремленности, ответственности и желанию постоянно развиваться.
 
 Я увлечен миром мобильных технологий и постоянно изучаю новые подходы к программированию. Мои основные технологические навыки включают в себя Java и Kotlin, и я готов углублять знания в них, чтобы стать опытным специалистом в области Android разработки.
 
