@@ -12,7 +12,7 @@ I am confident that with my enthusiasm, diligence and self-learning ability, I w
 
 I am looking forward to the opportunity to start my professional career, develop and reach new heights in the field of Android development.
 
-
+---------------------------------------------------------------------------
 
 Меня зовут Григорий, и я - Android разработчик с большим потенциалом. Хоть у меня нет опыта в данной области, я стремлюсь стать выдающимся специалистом благодаря своей целеустремленности, ответственности и желанию постоянно развиваться.
 
